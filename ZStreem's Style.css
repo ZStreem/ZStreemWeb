@@ -1,0 +1,177 @@
+head
+{
+	
+	font-family: Consolas;
+	
+}
+
+body
+{
+	
+	font-family: Calibri;
+	color: #EAEAEA;
+	background-color: #1B1B1B;
+	
+}
+
+h1
+{
+	
+	font-family: Arial;
+	
+}
+
+h2
+{
+	
+	font-family: Monospace;
+	
+}
+
+h3
+{
+	
+	font-family: Monospace;
+	
+}
+
+p
+{
+	
+	font-family: Consolas;
+	
+}
+
+#ZStreem
+{
+	
+	color: #004AFF;
+	text-shadow: -1px 0 #0071FF, 0 1px #0071FF, 1px 0 #0071FF, 0 -1px #0071FF;
+	
+}
+
+#Mother
+{
+	
+	color: #FF2197;
+	text-shadow: -1px 0 #B5005B, 0 1px #B5005B, 1px 0 #B5005B, 0 -1px #B5005B;
+	
+}
+
+#Father
+{
+	
+	color: #239C00;
+	text-shadow: -1px 0 #005A0A, 0 1px #005A0A, 1px 0 #005A0A, 0 -1px #005A0A;
+	
+}
+
+#Ollie
+{
+	
+	color: #FE41FF;
+	text-shadow: -1px 0 #00DDDF, 0 1px #00DDDF, 1px 0 #00DDDF, 0 -1px #00DDDF;
+	
+}
+
+#Header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #002ACD;
+    margin: -8px;
+    padding: 20px 10px;
+    color: #1B1B1B;
+    font-size: 20px;
+    border-bottom: 4px solid #ccc;
+    border-color: #09006E;
+    font-family: Arial;
+}
+
+#Header img {
+    margin-left: auto;
+}
+
+#Header span {
+    margin-right: auto;
+}
+
+#Navigation 
+{
+	
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #111111;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top: 2px solid #ccc;
+    border-color: #404040;
+    
+}
+
+#Navigation div
+{
+	margin-top: 5px;
+	margin-left: 2px;
+	margin-right: 2px;
+	
+}
+
+#InfoButton
+{
+	
+	background-color: #002ACD;
+	padding: 8px;
+	padding-left: 20px;
+	padding-right: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top: 2px solid #ccc;
+    border-left: 2px solid #ccc;
+    border-right: 2px solid #ccc;
+    border-color: #00048C;
+    color: #1B1B1B;
+    font-weight: bold;
+	
+}
+
+#HomeButton
+{
+	
+	background-color: #002ACD;
+	padding: 8px;
+	padding-left: 20px;
+	padding-right: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top: 2px solid #ccc;
+    border-left: 2px solid #ccc;
+    border-right: 2px solid #ccc;
+    border-color: #00048C;
+    color: #1B1B1B;
+	font-weight: bold;
+	
+}
+
+#SettingsButton
+{
+	
+	background-color: #002ACD;
+	padding: 8px;
+	padding-left: 20px;
+	padding-right: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top: 2px solid #ccc;
+    border-left: 2px solid #ccc;
+    border-right: 2px solid #ccc;
+    border-color: #00048C;
+    color: #1B1B1B;
+    font-weight: bold;
+	
+}
